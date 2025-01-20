@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/freelancer/works/3.jpg",
+    "title": "Family & Portrait Photography",
+    "category": "Photography",
+    "date": "2024"
+  },
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/freelancer/works/4.jpg",
+    "title": "Wedding ",
+    "category": "Wedding & Event Photography",
+    "date": "2022"
+  },
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/freelancer/works/5.jpg",
+    "title": "Real Estate",
+    "category": "Aerial Photography",
+    "date": "2022"
+  },
+  {
+    "id": 4,
+    "image": "/dark/assets/imgs/freelancer/works/1.jpg",
+    "title": "Sky's the limit",
+    "category": "Arizona Sunset",
+    "date": "2022"
+  },
+  {
+    "id": 5,
+    "image": "/dark/assets/imgs/freelancer/works/2.jpg",
+    "title": "Ocean from above",
+    "category": "Waves",
+    "date": "2023"
+  }
+]

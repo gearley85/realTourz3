@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Indoor & <BR> Outdoor Drone Photography and Videography",
+    "text": "Offering a unique perspective on your project, event, or property."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Short term rental check ins & <BR> listing help",
+    "text": "Let us give eyes on your property while you're away."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Wedding & <BR> Event Photography",
+    "text": "Our unique blend of aerial and ground photography will make your event stand out."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Family & <BR> Portrait Photography",
+    "text": "Let us help you capture the moments that matter most."
+  }
+]

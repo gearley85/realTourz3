@@ -1,0 +1,94 @@
+{
+  "filters": [
+    {
+      "id": 1,
+      "title": "All",
+      "filter": "*",
+      "count": "08"
+    },
+    {
+      "id": 2,
+      "title": "Weddings & Events",
+      "filter": ".wedding",
+      "count": "03"
+    },
+    {
+      "id": 3,
+      "title": "Drone Photography",
+      "filter": ".drone",
+      "count": "02"
+    },
+    {
+      "id": 4,
+      "title": "Family & Portrait",
+      "filter": ".family",
+      "count": "03"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/1.jpg",
+      "type": "Aerial Photography",
+      "year": "2021",
+      "title": "View from Above"
+    },
+    {
+      "id": 2,
+      "filter": "wedding",
+      "image": "/dark/assets/imgs/works/grid2/2.jpg",
+      "type": "Wedding Photography",
+      "year": "2021",
+      "title": "Unique Perspectives"
+    },
+    {
+      "id": 3,
+      "filter": "family",
+      "image": "/dark/assets/imgs/works/grid2/3.jpg",
+      "type": "Family Photography",
+      "year": "2025",
+      "title": "Capturing Moments"
+    },
+    {
+      "id": 4,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/4.jpg",
+      "type": "Aerial Photography",
+      "year": "2025",
+      "title": "View from Above"
+    },
+    {
+      "id": 5,
+      "filter": "wedding",
+      "image": "/dark/assets/imgs/works/grid2/6.jpg",
+      "type": "Wedding Photography",
+      "year": "2021",
+      "title": "Capturing your special day"
+    },
+    {
+      "id": 6,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/5.jpg",
+      "type": "Wedding Photography",
+      "year": "2021",
+      "title": "Pool"
+    },
+    {
+      "id": 7,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/7.jpg",
+      "type": "Aerial Photography",
+      "year": "2021",
+      "title": "Saguaro from Above"
+    },
+    {
+      "id": 8,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/8.jpg",
+      "type": "Aerial Photography",
+      "year": "2024",
+      "title": "Unique Perspectives"
+    }
+  ]
+}
