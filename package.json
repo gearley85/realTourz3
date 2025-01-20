@@ -1,5 +1,5 @@
 {
-  "name": "geekfolio",
+  "name": "realtourz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "export": "next build && next export",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "npm run build && gh-pages -d .next"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
