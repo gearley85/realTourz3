@@ -26,7 +26,10 @@ function HomeFreelancer() {
   return (
     <>
       <Head>
-        <title>Realtourz</title>
+        <title>
+          Realtourz | Photography and Drone Services in the greater Sacramento
+          Area
+        </title>
       </Head>
 
       <Loader />
