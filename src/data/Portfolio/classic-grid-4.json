@@ -70,7 +70,7 @@
       "id": 6,
       "filter": "drone",
       "image": "/dark/assets/imgs/works/grid2/5.jpg",
-      "type": "Wedding Photography",
+      "type": "Aerial Photography",
       "year": "2021",
       "title": "Pool"
     },
@@ -89,6 +89,70 @@
       "type": "Aerial Photography",
       "year": "2024",
       "title": "Unique Perspectives"
+    },
+    {
+      "id": 9,
+      "filter": "wedding",
+      "image": "/dark/assets/imgs/works/grid2/9.jpg",
+      "type": "Wedding Photography",
+      "year": "2022",
+      "title": "Capturing your special day"
+    },
+    {
+      "id": 10,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/11.jpg",
+      "type": "Aerial Photography",
+      "year": "2024",
+      "title": "Unique Perspectives"
+    },
+    {
+      "id": 11,
+      "filter": "wedding",
+      "image": "/dark/assets/imgs/works/grid2/10.jpg",
+      "type": "Wedding Photography",
+      "year": "2024",
+      "title": "Capturing Moments"
+    },
+    {
+      "id": 12,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/12.jpg",
+      "type": "Aerial Photography",
+      "year": "2021",
+      "title": "House from Above"
+    },
+    {
+      "id": 13,
+      "filter": "family",
+      "image": "/dark/assets/imgs/works/grid2/15.jpg",
+      "type": "Family Photography",
+      "year": "2021",
+      "title": "Capturing Moments"
+    },
+    {
+      "id": 14,
+      "filter": "family",
+      "image": "/dark/assets/imgs/works/grid2/14.jpg",
+      "type": "Family Photography",
+      "year": "2023",
+      "title": "Mother & Daughter"
+    },
+    {
+      "id": 15,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/13.jpg",
+      "type": "Aerial Photography",
+      "year": "2022",
+      "title": "Solar Panels"
+    },
+    {
+      "id": 16,
+      "filter": "family",
+      "image": "/dark/assets/imgs/works/grid2/16.jpg",
+      "type": "Family Photography",
+      "year": "2025",
+      "title": "Capturing Moments"
     }
   ]
 }
