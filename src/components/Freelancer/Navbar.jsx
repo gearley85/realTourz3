@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import Link from "next/link";
 
 function Navbar({ lightMode }) {
   useEffect(() => {
@@ -40,13 +41,13 @@ function Navbar({ lightMode }) {
   return (
     <nav className="navbar navbar-expand-lg static main-bg">
       <div className="container">
-        <a className="logo icon-img-100" href="#">
+        <Link className="logo icon-img-100" href="/">
           {lightMode ? (
             <img src="/dark/assets/imgs/logo-dark.png" alt="logo" />
           ) : (
             <img src="/dark/assets/imgs/logo-light.png" alt="logo" />
           )}
-        </a>
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -67,14 +68,14 @@ function Navbar({ lightMode }) {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link"
-                href="#0"
+                href="/"
                 data-scroll-nav="0"
-                onClick={() => scrollToSection(0)}
+                // onClick={() => scrollToSection(0)}
               >
                 <span className="rolling-text">Home</span>
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a

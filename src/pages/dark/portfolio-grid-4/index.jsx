@@ -5,9 +5,9 @@ import Head from "next/head";
 import Layout from "@/layouts/default";
 //= Components
 import Loader from "@/components/Common/Loader";
-import Navbar from "@/components/Common/MainNavbar";
-import Footer from "@/components/Freelancer/Footer";
+import Navbar from "@/components/Freelancer/Navbar";
 import Header from "@/components/Portfolio/Header";
+import Footer from "@/components/Freelancer/Footer";
 import GridFourCols from "@/components/Portfolio/ClassicGrid/4Col";
 
 function PortfolioClassicGrid4() {
