@@ -4,25 +4,25 @@
       "id": 1,
       "title": "All",
       "filter": "*",
-      "count": "08"
+      "count": "17"
     },
     {
       "id": 2,
       "title": "Weddings & Events",
       "filter": ".wedding",
-      "count": "03"
+      "count": "04"
     },
     {
       "id": 3,
       "title": "Drone Photography",
       "filter": ".drone",
-      "count": "02"
+      "count": "09"
     },
     {
       "id": 4,
       "title": "Family & Portrait",
       "filter": ".family",
-      "count": "03"
+      "count": "04"
     }
   ],
   "gallery": [
@@ -153,6 +153,14 @@
       "type": "Family Photography",
       "year": "2025",
       "title": "Capturing Moments"
+    },
+    {
+      "id": 17,
+      "filter": "drone",
+      "image": "https://1drv.ms/i/c/bad422b2e95dab6b/IQRWXc3OPn4FS7FLi8_YhnnSASkvMMG-OeedwMvUggy12vU?width=1024",
+      "type": "Drone Photography",
+      "year": "2024",
+      "title": "Indoor property tour"
     }
   ]
 }
