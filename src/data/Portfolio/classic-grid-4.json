@@ -4,7 +4,7 @@
       "id": 1,
       "title": "All",
       "filter": "*",
-      "count": "17"
+      "count": "18"
     },
     {
       "id": 2,
@@ -161,6 +161,14 @@
       "type": "Drone Photography",
       "year": "2024",
       "title": "Indoor property tour"
+    },
+    {
+      "id": 18,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/17.jpg",
+      "type": "Drone Photography",
+      "year": "2025",
+      "title": "Rural view"
     }
   ]
 }
