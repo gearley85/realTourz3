@@ -4,7 +4,7 @@
       "id": 1,
       "title": "All",
       "filter": "*",
-      "count": "18"
+      "count": "19"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Drone Photography",
       "filter": ".drone",
-      "count": "09"
+      "count": "11"
     },
     {
       "id": 4,
@@ -166,9 +166,17 @@
       "id": 18,
       "filter": "drone",
       "image": "/dark/assets/imgs/works/grid2/17.jpg",
-      "type": "Drone Photography",
+      "type": "Aerial Photography",
       "year": "2025",
       "title": "Rural view"
+    },
+    {
+      "id": 19,
+      "filter": "drone",
+      "image": "/dark/assets/imgs/works/grid2/18.jpg",
+      "type": "Aerial Photography",
+      "year": "2025",
+      "title": "Ocean views"
     }
   ]
 }

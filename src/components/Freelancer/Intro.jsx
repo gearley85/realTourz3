@@ -41,7 +41,7 @@ function Intro() {
           <div className="col-lg-3 order2">
             <div className="img">
               <img
-                src="/dark/assets/imgs/freelancer/TreeAbove.jpg"
+                src="/dark/assets/imgs/freelancer/18.jpg"
                 alt=""
                 className="parallax"
                 data-speed="0.01"
