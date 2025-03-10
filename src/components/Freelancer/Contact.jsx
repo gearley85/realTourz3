@@ -43,7 +43,8 @@ function Contact() {
               <h2 className="fz-50">
                 We specialize in capturing stunning aerial and indoor footage of
                 homes and businesses. Let us help view your desired property in
-                a unique and captivating way. Contact us today to schedule a
+                a unique and captivating way. Serving the greater Sacramento area including Folsom, Roseville, Rancho Cordova, Eldorado Hills, and more.
+                 Contact us today to schedule a
                 tour or for your Photography needs!
               </h2>
               <p className="fz-15 mt-10">Contact me for a custom quote.</p>
