@@ -1,5 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect } from "react";
+import Link from 'next/link';
 
 function Intro() {
   useEffect(() => {
@@ -67,14 +68,9 @@ function Intro() {
                 buy, or to capture the moments that you want to remember
                 forever.
               </p>
-              {/* <div className="stauts mt-50">
-                <div className="item d-flex align-items-center">
-                  <h2 className="mr-20">12k</h2>
-                  <p className="fz-14">
-                    Happy Users <br /> Around World
-                  </p>
-                </div>
-              </div> */}
+             <Link href="/dark/page-whyrealtourz/" className="butn butn-md butn-bord radius-30 mt-50">
+                <span>Why RealTourz</span>
+              </Link>
             </div>
           </div>
         </div>
