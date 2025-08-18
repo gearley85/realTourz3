@@ -46,19 +46,17 @@ function Portfolio() {
               <div className="item mt-30">
                 <div className="img">
                   <img src={item.image} alt="" className="radius-10" />
-                  <Link href="/dark/project-details1" className="tag">
+                  <span className="tag">
                     <span>{item.category}</span>
-                  </Link>
+                  </span>
                 </div>
                 <div className="cont mt-30 d-flex">
                   <div>
                     <h6 className="line-height-1">
-                      <Link href="/dark/project-details1">{item.title}</Link>
+                      {/* <Link href="/dark/project-details1">{item.title}</Link> */}
                     </h6>
                   </div>
-                  <div className="ml-auto">
-                    <p className="fz-14">© {item.date}</p>
-                  </div>
+                
                 </div>
               </div>
             </div>
