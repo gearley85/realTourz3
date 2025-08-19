@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 function Intro() {
@@ -67,6 +68,40 @@ function Intro() {
                   </div>
                   <div className="accordion-info">
                     <p className="fz-14">RealTourz is here to help show you exactly what your new place looks like. </p>
+                  </div>
+                </div>
+                 <div className="item wow fadeInUp" data-wow-delay=".5s">
+                  <div className="title" onClick={openAccordion}>
+                    <h6 className="fz-18">What should I expect/How does it work?</h6>
+                    <span className="ico"></span>
+                  </div>
+                  <div className="accordion-info">
+                    <ol className="list-group list-group-numbered">
+                    <li>
+                      <p className="fz-14">Submit our <Link href='/#0' >Contact</Link> Form</p>
+                    </li>
+                    <li>
+                      <p className=" fz-14">We will contact you to discuss your needs</p>
+                    </li>
+                    <li>
+                      <p className=" fz-14">We send you an invoice for a initial good faith deposit</p>
+                    </li>
+                    <li>
+                      <p className=" fz-14">We will schedule a time with the listing agent to do the tour</p>
+                    </li>
+                    <li>
+                      <p className=" fz-14">We will do the tour and upload the tour to a secure link</p>
+                      </li>
+                      <li>
+                      <p className=" fz-14">You will receive an invoice to pay the balance due </p>
+                      </li>
+                      <li>
+                      <p className=" fz-14">After payment, you will receive the link to view the tour and have 90 days to view</p>
+                      </li>
+                      <li>
+                      <p className=" fz-14">The entire process takes around 4-5 business days (depending on demand) and we will notify you of any delays</p>
+                      </li>
+                    </ol>
                   </div>
                 </div>
               </div>

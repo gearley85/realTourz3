@@ -15,7 +15,7 @@ function Story() {
             {/* <video id="comp-iv9d7w36_video" class="K8MSra" crossorigin="anonymous" playsinline="" preload="auto" loop="" autoplay="" src="https://video.wixstatic.com/video/31d778_a4244bb5a0fa4aa998a62b873356c5ba/720p/mp4/file.mp4" 
             style="height: 100%; width: 100%; object-fit: cover; object-position: center center; opacity: 1;"></video> */}
              <video width="600" controls autoPlay loop muted>
-      <source src="/dark/assets/imgs/sample.mp4" crossorigin="anonymous" preload="auto" loop="" autoplay="" type="video/mp4" />
+      <source src="/dark/assets/imgs/sample.mp4" crossOrigin="anonymous" preload="auto" loop="" autoPlay="" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
           </div>
