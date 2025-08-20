@@ -34,7 +34,7 @@ function Contact() {
     setIsModalOpen(false);
   };
   return (
-    <section className="contact-crev section-padding" data-scroll-index="7">
+    <section className="contact-crev section-padding" data-scroll-index="7" id="contact">
       <div className="container">
         <div className="row">
           <div className="col-lg-5">

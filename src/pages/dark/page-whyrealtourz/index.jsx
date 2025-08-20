@@ -6,7 +6,6 @@ import Layout from '@/layouts/default';
 //= Components
 import Loader from '@/components/Common/Loader';
 import Navbar from "@/components/Freelancer/Navbar";
-import Header from "@/components/Freelancer/Header";
 import Footer from "@/components/Freelancer/Footer";
 import Intro from '@/components/InnerPages/About/Intro';
 import Story from '@/components/InnerPages/About/Story';

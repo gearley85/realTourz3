@@ -78,7 +78,7 @@ function Intro() {
                   <div className="accordion-info">
                     <ol className="list-group list-group-numbered fz-14">
                     <li>
-                      Submit our <Link href='/#0' >Contact</Link> Form
+                      Submit our <Link className="underline" href='/#contact' >Contact Form</Link>
                     </li>
                     <li>
                        We will contact you to discuss your needs
