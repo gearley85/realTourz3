@@ -5,7 +5,9 @@ import Head from 'next/head';
 import Layout from '@/layouts/default';
 //= Components
 import Loader from '@/components/Common/Loader';
-import Navbar from "@/components/Freelancer/Navbar";
+// import Navbar from "@/components/Freelancer/Navbar";
+
+import WhyRealTourzNavbar from "@/components/Common/WhyRealTourzNavbar";
 import Footer from "@/components/Freelancer/Footer";
 import Intro from '@/components/InnerPages/About/Intro';
 import Story from '@/components/InnerPages/About/Story';
@@ -25,7 +27,7 @@ function PageWhyRealTourz() {
       </Head>
 
       <Loader />
-      <Navbar mainBg />
+  <WhyRealTourzNavbar lightMode={false} />
       <main>
         {/* <Header /> */}
         <Intro />

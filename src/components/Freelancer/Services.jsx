@@ -7,7 +7,7 @@ import data from "@/data/Freelancer/services.json";
 
 function Services({ lightMode }) {
   return (
-    <section className="serv-box section-padding" data-scroll-index="1">
+    <section className="serv-box section-padding" data-scroll-index="1" id="services">
       <div className="container">
         <div className="sec-lg-head mb-80">
           <div className="row">

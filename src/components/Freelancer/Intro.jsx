@@ -29,7 +29,7 @@ function Intro() {
   return (
     <section
       className="intro-img-parlx section-padding pb-0 sub-bg"
-      data-scroll-index="2"
+      data-scroll-index="2" id="about"
     >
       <div className="container">
         <div className="row justify-content-center">

@@ -5,7 +5,7 @@ import data from "@/data/Freelancer/portfolio.json";
 
 function Portfolio() {
   return (
-    <section className="portfolio clasic section-padding" data-scroll-index="3">
+    <section className="portfolio clasic section-padding" data-scroll-index="3" id="portfolio">
       <div className="container">
         <div className="sec-lg-head mb-50">
           <div className="row">

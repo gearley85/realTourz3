@@ -5,7 +5,7 @@ import Head from "next/head";
 import Layout from "@/layouts/default";
 //= Components
 import Loader from "@/components/Common/Loader";
-import Navbar from "@/components/Freelancer/Navbar";
+import WhyRealTourzNavbar from "@/components/Common/WhyRealTourzNavbar";
 import Header from "@/components/Portfolio/Header";
 import Footer from "@/components/Freelancer/Footer";
 import GridFourCols from "@/components/Portfolio/ClassicGrid/4Col";
@@ -28,7 +28,7 @@ function PortfolioClassicGrid4() {
       </Head>
 
       <Loader />
-      <Navbar mainBg />
+       <WhyRealTourzNavbar lightMode={false} />
       <main className="main-bg">
         <Header data={metadata} />
         <GridFourCols />
