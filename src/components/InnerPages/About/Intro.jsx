@@ -35,10 +35,10 @@ function Intro() {
                     <span className="up-text">Find out</span>
                   </span>
                   <span className="sideup-text">
-                    <span className="up-text">what</span>
+                    <span className="up-text">what RealTourz</span>
                   </span>
                   <span className="sideup-text">
-                    <span className="up-text">RealTourz is about.</span>
+                    <span className="up-text">is all about</span>
                   </span>
                 </h2>
               </div>
@@ -76,30 +76,30 @@ function Intro() {
                     <span className="ico"></span>
                   </div>
                   <div className="accordion-info">
-                    <ol className="list-group list-group-numbered">
+                    <ol className="list-group list-group-numbered fz-14">
                     <li>
-                      <p className="fz-14">Submit our <Link href='/#0' >Contact</Link> Form</p>
+                      Submit our <Link href='/#0' >Contact</Link> Form
                     </li>
                     <li>
-                      <p className=" fz-14">We will contact you to discuss your needs</p>
+                       We will contact you to discuss your needs
                     </li>
                     <li>
-                      <p className=" fz-14">We send you an invoice for a initial good faith deposit</p>
+                       We send you an invoice for a initial good faith deposit
                     </li>
                     <li>
-                      <p className=" fz-14">We will schedule a time with the listing agent to do the tour</p>
+                       We will schedule a time with the listing agent to do the tour
                     </li>
                     <li>
-                      <p className=" fz-14">We will do the tour and upload the tour to a secure link</p>
+                       We will do the tour and upload the tour to a secure link
                       </li>
                       <li>
-                      <p className=" fz-14">You will receive an invoice to pay the balance due </p>
+                       You will receive an invoice to pay the balance due
                       </li>
                       <li>
-                      <p className=" fz-14">After payment, you will receive the link to view the tour and have 90 days to view</p>
+                       After payment, you will receive the link to view the tour and have 90 days to view
                       </li>
                       <li>
-                      <p className=" fz-14">The entire process takes around 4-5 business days (depending on demand) and we will notify you of any delays</p>
+                       The entire process takes around 4-5 business days (depending on demand) and we will notify you of any delays
                       </li>
                     </ol>
                   </div>
