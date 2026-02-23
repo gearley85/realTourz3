@@ -5,7 +5,6 @@ import Head from 'next/head';
 import Layout from '@/layouts/showcases';
 //= Scripts
 import customScript from '@/common/marketing-agency-customjs';
-import showcaseScript from '@/common/showcase-script';
 //= Components
 import Loader from '@/components/Common/Loader';
 import Navigation from '@/components/Showcases/Navigation';
@@ -16,7 +15,6 @@ import CircleSlider from '@/components/Showcases/CircleSlider';
 function ShowcaseCircleSlider() {
   useEffect(() => {
     customScript();
-    showcaseScript.showcase1();
   }, []);
 
   return (
