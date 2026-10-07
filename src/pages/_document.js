@@ -6,17 +6,53 @@ export default function Document() {
       <Head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta
-          name="keywords"
-          content="Realtourz drone photography aerial images pcs move"
+          name="description"
+          content="Discover Realtourz drone photography, aerial property imagery, and immersive home tours across the greater Sacramento area."
         />
         <meta
-          name="description"
-          content="Realtourz the new way to tour homes"
+          name="keywords"
+          content="drone photography, aerial photography, property photography, home tours, Sacramento photography, real estate imagery"
         />
         <meta name="author" content="Gavin Earley" />
+        <meta name="robots" content="index,follow,max-image-preview:large" />
+        <meta name="theme-color" content="#101010" />
+        <link rel="canonical" href="https://realtourz.com/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:site_name" content="Realtourz" />
+        <meta property="og:title" content="Realtourz | Drone Photography & Home Tours" />
+        <meta
+          property="og:description"
+          content="Immersive drone photography, aerial property imagery, and home tours across Sacramento."
+        />
+        <meta property="og:url" content="https://realtourz.com/" />
+        <meta
+          property="og:image"
+          content="https://realtourz.com/dark/assets/imgs/favicon.ico"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Realtourz | Drone Photography & Home Tours" />
+        <meta
+          name="twitter:description"
+          content="Immersive drone photography, aerial property imagery, and home tours across Sacramento."
+        />
+        <meta name="twitter:image" content="https://realtourz.com/dark/assets/imgs/favicon.ico" />
         <meta
           name="google-site-verification"
           content="KICzyyUF1qS5nMkYNh4AofLJLlqQ7ZlCEvJ_Sdnr9_8"
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Realtourz",
+              url: "https://realtourz.com/",
+              description:
+                "Drone photography, aerial property imagery, and immersive home tours across the greater Sacramento area.",
+            }),
+          }}
         />
         {/* ------ Favicon ------ */}
         <link rel="shortcut icon" href="/dark/assets/imgs/favicon.ico" />
